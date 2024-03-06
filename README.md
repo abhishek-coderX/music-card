@@ -10,4 +10,4 @@ Check out the live demo [here](https://abhishek-coderx.github.io/music-card/).
 
 - Play, pause, and stop music tracks.
 - Display track information (title, artist,).
--progess bar ...but there is issue 
+- progess bar ...but there is issue.
